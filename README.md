@@ -32,5 +32,5 @@ Asegúrate de tener los siguientes programas instalados:
 1. **Clona el repositorio**:
 
    ```bash
-   git clone https://github.com/tu_usuario/MovieRecommendationSystem-Flask.git
-   cd MovieRecommendationSystem-Flask
+   git clone https://github.com/Fabiantwo/recomendation-movie.git
+   cd recomendation-movie
